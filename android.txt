@@ -1,0 +1,3 @@
+title=Sleep Extinguisher
+author=Mayank Kumar Giri
+orientation=landscape

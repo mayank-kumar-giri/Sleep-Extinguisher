@@ -12,7 +12,7 @@ import numpy as np
 from kivy.core.audio import SoundLoader
 
 
-class DDD(App):
+class sleep_extinguisher(App):
 
     def build(self):
         self.img1 = Image(source='a.jpg')
@@ -96,4 +96,4 @@ class DDD(App):
         return layout
 
 if __name__ == '__main__':
-    DDD().run()
+    sleep_extinguisher().run()
